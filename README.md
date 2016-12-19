@@ -1,1 +1,1 @@
-# lua-oss
+# lua版本的阿里云oss SDK
